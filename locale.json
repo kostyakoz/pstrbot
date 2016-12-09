@@ -304,7 +304,7 @@
         "📈<b>{q}</b>\n\n🌎 <a href='https://vk.com/wall{i}_{p}'>Vote →</a>",
         "🌎 <a href='{u}'>Open link →</a>",
         "📝 Read article <a href='{u}'>“{n}” →</a>",
-        "*The “Like” button*\nIn this menu you can configure “Likes” for messages in the channel.. *It is important:* if you connect your own bot “Likes” will not be sent.\n\n*SmartLike* — an experimental feature which sends the “Likes” _only_ to those records that mention the words you specify.\n\n*SmartLike keywords now:* {sl}",
+        "*The “Like” button*\nIn this menu you can configure “Likes” for messages in the channel. *It is important:* if you connect your own bot “Likes” will not be sent.\n\n*SmartLike* — an experimental feature which sends the “Likes” _only_ to those records that mention the words you specify.\n\n*SmartLike keywords now:* {sl}",
         "⏹ Disable",
         "▶ Enable",
         "🎩 Turn off SmartLike",

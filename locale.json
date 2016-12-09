@@ -304,7 +304,7 @@
         "📈<b>{q}</b>\n\n🌎 <a href='https://vk.com/wall{i}_{p}'>Vote →</a>",
         "🌎 <a href='{u}'>Open link →</a>",
         "📝 Read article <a href='{u}'>“{n}” →</a>",
-        "*Кнопка “Мне нравится”*\nЗдесь можно настроить лайки для сообщений в канале. *Важно:* при подключении собственного бота лайки отправляться не будут.\n\n*SmartLike* — экспериментальная функция, отправляющая лайки _только_ к тем записям, где упоминается слово “лайк” и тому подобное.\n\n*SmartLike сейчас:* {sl}",
+        "*The “Like” button*\nIn this menu you can configure “Likes” for messages in the channel.. *It is important:* if you connect your own bot likes will not be sent.\n\n*SmartLike* — an experimental feature that sends the “Likes” _only_ to those records that mention the words you specify.\n\n*SmartLike keywords now:* {sl}",
         "⏹ Disable",
         "▶ Enable",
         "🎩 Turn off SmartLike",

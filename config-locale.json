@@ -58,6 +58,7 @@
 
 "RSS_FILTERS_SETTINGS": [
     {"key": "likeButton", "display": {"en": "👍 Add “Like” Button", "ru": "👍 Кнопка “Мне нравится”"}}, 
+    {"key": "formatting", "display": {"en": "🦋 Messages formatting", "ru": "🦋 Форматирование сообщений"}},
     {"key": "title", "display": {"en": "📖 Send title", "ru": "📖 Отправлять заголовок"}},
     {"key": "text", "display": {"en": "✏ Send text messages", "ru": "✏ Отправлять текст"}},
     {"key": "links", "display": {"en": "🌎 Add source link", "ru": "🌎 Отправлять ссылку"}},

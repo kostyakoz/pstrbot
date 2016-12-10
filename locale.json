@@ -243,7 +243,7 @@
         "▶ Resume",
         "❌ Delete",
         "_You haven't channels in the bot._",
-        "You have *{num}* {word}. Press at the channel name to edit or delete.",
+        "You have *{num}* {word}. Click on the channel name to edit or remove it.",
         "✋ Manually",
         "30 minutes",
         "1 hour",

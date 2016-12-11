@@ -228,7 +228,7 @@
         "*Settings*\nHere you can change bot settings, update subscription or add your own bot for posting.\n\n{status} Click the button below to get subscription.",
         "*Bot added*\nYour bot successfully added to *PosterBot*. All messages to your channels will be send from @{custom}.\n\nDon't forget add @{custom} to channel's admins.",
         "*Error*\nIncorrect TOKEN. Try one more time.",
-        "*Help*\nHere you can ask your question to the creators of the bot or to offer an idea for improving service.\n\nBefore you ask a question read *“📖 FAQ”*.",
+        "*Help*\nHere you can ask your question to the creators of the bot or offer an idea for improving service.\n\nBefore you ask a question read *“📖 FAQ”*.",
         "➕ Add page",
         "📢 My channels",
         "➕ Add channel",

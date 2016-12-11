@@ -173,7 +173,7 @@
         "*Need help?* Use /help to ask your question.\n\nTimeout — *{t_f} min.*\nTimeout for Premium — *{t_p} min.*",
         "*PosterBot* send posts from different social networks and services to Telegram channels.\n\nAt the moment PosterBot can work with Instagram, Twitter, VK and with RSS feeds.\n\nPress *“➕ Add channel”* to start.",
         "*My channels*\nYou can add or delete channels here.",
-        "*Add channel*\nIn order to make bot be able to send messages to your channel, you must add bot to channel's administrators.\n\n*To do this, open the list of channel's users and add @pstrbot as administrator.*\n\nAfter that, *just forward to this chat any message from your channel* (also works with private channels).",
+        "*Add channel*\nIn order to allow the bot to send messages to your channel, you must add bot to channel's administrators.\n\n*To do this, open the list of channel's users and add @pstrbot as administrator.*\n\nAfter that, *just forward to this chat any message from your channel* (also works with private channels).",
         "*Error*\nThis channel is already added to the bot. Maybe it was added by one of the administartors.\n\n*Try forward to me any message from another channel.*",
         "*Error*\nThe number of users in the channel *is more than 999+*, to add this channel to the bot, you must be *Premium*.",
         "*Error*\nTo add this channel to the bot you must be an administrator of this channel.",

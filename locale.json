@@ -332,7 +332,7 @@
         "Bold",
         "Italic",
         "*Payment with QIWI or WebMoney*\n💵 To get a subscription you need to pay *{sum}* to:\n\nQIWI: *+7 (928) 627-60-24*\nWMR: *R140469974193*\nWMZ: *Z881546891722*\n\n⚠ *It is important!* In transaction description you must write: *{uid}-{pt}*\n\nIf you don't write this, the subscription will not be activated.\n\n💷 *AFTER* payment you must click *I'VE PAID*.",
-        "*Уведомление*\nОтправка сообщений возобновлена во все твои каналы.",
-        "*Уведомление*\nОтправка сообщений возобновлена в {chn}."
+        "*Notification*\nSending messages resumed in all your channels.",
+        "*Notification*\nSending messages resumed in {chn}."
     ]
 }

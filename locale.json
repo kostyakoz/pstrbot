@@ -181,7 +181,7 @@
         "*Error*\nBot @pstrbot is not an administrator of this channel.\n\n*Add bot @pstrbot to the list of administrators of this channel or try to forward to me any message from another channel.*",
         "*Error*\nYou sent me something wrong.\n\n*Forward me any message from a channel that you want to add.*",
         "Loading...",
-        "*Channels edit*\nYou can pause posting in the channel {name} or romove it.",
+        "*Channels edit*\nYou can pause posting in the channel {name} or remove it.",
         "*Channel was deleted*\nYour channel was deleted from the bot.\n\n",
         "*Pause all channels*\nChoose time for how long your channels will be paused. After this time sending will continue.",
         "*Pause channel*\nChoose time for how long your channel will be paused. After this time sending will continue.",

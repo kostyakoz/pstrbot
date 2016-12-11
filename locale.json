@@ -225,7 +225,7 @@
         "You can return to the settings page in the message above.",
         "*Saved*\nYou can return to the settings page in the message above.",
         "*Error*\nYou sent something wrong.",
-        "*Settings*\nHere you can change bot settings, update subscription or add your own bot for posting.\n\n{status} Click the button below to get subscription.",
+        "*Settings*\nHere you can change bot settings, update subscription or add your own bot for posting.\n\n{status} To renew your subscription, click on the button below.",
         "*Bot added*\nYour bot successfully added to *PosterBot*. All messages to your channels will be send from @{custom}.\n\nDon't forget add @{custom} to channel's admins.",
         "*Error*\nIncorrect TOKEN. Try one more time.",
         "*Help*\nHere you can ask your question to the creators of the bot or offer an idea for improving service.\n\nBefore you ask a question read *“📖 FAQ”*.",

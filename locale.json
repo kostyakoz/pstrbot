@@ -211,7 +211,7 @@
         "*Error*\nSend URL of VK public page or group.",
         "*My pages*\nYou have *{num}* pages. Here you can configure or delete it.",
         "VK",
-        "*Editing {kind} page*\nBot sending messages from *{name}* to {channel}.",
+        "*Editing {kind} page*\nBot sending messages from *{name}* to *{channel}*.",
         "*Page was deleted*\nThis page was deleted from the bot.\n\n",
         "*Error*\nTo use this filter you must be *Premium*.",
         "*Likes filter*\nYou can choose, how many likes must collect post for the specified time to be published.",

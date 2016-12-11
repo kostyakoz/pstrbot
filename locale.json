@@ -1,6 +1,6 @@
 {
     "ru": [
-        "*Нужна помощь?* Используй команду /help, чтобы задать свой вопрос.\n\nОжидание — *{t_f} мин.*\n\nОжидание для Premium — *{t_p} мин.*.",
+        "*Нужна помощь?* Используй команду /help, чтобы задать свой вопрос.\n\nОжидание — *{t_f} мин.*\nОжидание для Premium — *{t_p} мин.*.",
         "*PosterBot* — это бот, который умеет отправлять записи из разных социальных сетей и сервисов в публичные и приватные каналы Telegram.\n\nВ данный момент PosterBot умеет отправлять записи из Instagram, Twitter, VK и RSS-лент.\n\nЧтобы начать, нажмите *“➕ Добавить канал”*.",
         "*Мои каналы*\nЗдесь можно добавить или удалить каналы.",
         "*Добавление канала*\nЧтобы бот мог отправлять сообщения в ваш канал, его необходимо сделать администратором канала.\n\n*Для этого откройте список администраторов канала и добавьте в него бота @pstrbot.*\n\nПосле того, как сделаете бота администратором канала, *перешлите любое сообщение из этого канала* (также работают и закрытые каналы).",
@@ -170,7 +170,7 @@
         ""
     ],
     "en": [
-        "*Need help?* Use /help to ask your question.\n\nTimeout — *{t_f} min.*\n\nTimeout for Premium — *{t_p} min.*",
+        "*Need help?* Use /help to ask your question.\n\nTimeout — *{t_f} min.*\nTimeout for Premium — *{t_p} min.*",
         "*PosterBot* send posts from different social networks and services to Telegram channels.\n\nAt the moment PosterBot can work with Instagram, Twitter, VK and with RSS feeds.\n\nPress *“➕ Add channel”* to start.",
         "*My channels*\nYou can add or delete channels here.",
         "*Add channel*\nIn order to make bot be able to send messages to your channel, you must add bot to channel's administrators.\n\n*To do this, open the list of channel's users and add @pstrbot as administrator.*\n\nAfter that, *just forward to this chat any message from your channel* (also works with private channels).",

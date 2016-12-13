@@ -99,7 +99,7 @@
     "description": {"en": "", "ru": ""}},
     {"key": "deleteLinks", "display": {"en": "🌎 Delete links", "ru": "🌎 Удалять ссылки"},
     "description": {"en": "", "ru": ""}},
-    {"key": "stopWords", "display": {"en": "⛔ Stop words", "ru": "⛔ Стоп-слова"}
+    {"key": "stopWords", "display": {"en": "⛔ Stop words", "ru": "⛔ Стоп-слова"},
     "description": {"en": "", "ru": ""}},
     {"key": "keyWords", "display": {"en": "🔑 Key words", "ru": "🔑 Ключевые слова"},
     "description": {"en": "", "ru": ""}},

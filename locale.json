@@ -166,7 +166,7 @@
         "*Уведомление*\nОтправка сообщений возобновлена в {chn}.",
         "⚠ *Уведомление*\nВаша подписка истекает через {d} {w}. Чтобы продолжить пользоваться ботом, вам необходимо оплатить подписку. Сделать это можно, нажав на кнопку ниже.",
         "⚠ *Уведомление*\nСрок действия твоей подписки истёк. Чтобы продолжить пользоваться ботом, вам необходимо оплатить подписку. Сделать это можно, нажав на кнопку ниже.",
-        "",
+        "✍ Уточнить",
         ""
     ],
     "en": [
@@ -335,6 +335,7 @@
         "*Notification*\nSending messages resumed in all your channels.",
         "*Notification*\nSending messages resumed in {chn}.",
         "⚠ *Notification*\nYour subscription expires in {d} {w}. To continue using the bot, you need to pay for a subscription. This can be done by clicking on the button below.",
-        "⚠ *Notification*\nThe validity period of your subscription has expired. To continue using the bot, you need to pay for a subscription. This can be done by clicking on the button below."
+        "⚠ *Notification*\nThe validity period of your subscription has expired. To continue using the bot, you need to pay for a subscription. This can be done by clicking on the button below.",
+        "✍ Clarify answer"
     ]
 }

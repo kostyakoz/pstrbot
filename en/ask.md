@@ -1,3 +1,3 @@
-## Задать вопрос
+## Ask question
 
-Если вы не нашли ответа на свой вопрос ни в одном из разделов данного сайта, то [отправьте боту](//telegram.me/pstrbot) команду `/help` (либо нажмите на “Помощь” в меню). Затем выберете “Задать вопрос”, далее следуйте инструкциям бота. Наша команда поддержки свяжется с вами, как только это будет возможно.
+If you do not find the answer to your question in any of the sections then send a [bot](//telegram.me/pstrbot) the command `/help` (or click on the “Help” menu). Then choose “Ask a question” and follow the instructions of the bot. Our support team will contact you as soon as possible.

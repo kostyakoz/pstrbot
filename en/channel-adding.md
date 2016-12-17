@@ -1,9 +1,9 @@
-## Добавление каналов
-Чтобы добавить в бота свой канал (неважно — частный или публичный), необходимо сделать бота **@pstrbot** администратором канала. Если в канале нет сообщений, то нужно написать любое.
+## Adding channels
+To add the bot to your channel (whether private or public), you need to make **@pstrbot** the administrator of the channel. If the channel has no messages, then you need to write any.
 
-1. Перейдите в [@pstrbot](//telegram.me/pstrbot), выберете раздел **“Мои каналы”**, далее **“Добавить канал”**.
-2. Следуя инструкциям бота, перешлите любое сообщение из канала в чат с [@pstrbot](//telegram.me/pstrbot).
-3. Если все прошло успешно, канал должен отображаться в списке добавленных.
+1. Go to [@pstrbot](//telegram.me/pstrbot), select **“My channels”**, then **“Add channel”**.
+2. Following the instructions of the bot, send any message from the channel in the chat [@pstrbot](//telegram.me/pstrbot).
+3. If all goes well, the channel should appear in the list of attached channels.
 
-### Возможные проблемы
-* **Бот не является администратором канала.** Для этого необходимо открыть список администраторов нужного канала и **через поиск** добавить бота [@pstrbot](//telegram.me/pstrbot).
+### Possible problems
+* **Bot is not an administrator of the channel.** To fix this, open the list of administrators desired channel and **search** add a bot [@pstrbot](//telegram.me/pstrbot).

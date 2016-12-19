@@ -1,8 +1,8 @@
-## Главная
-В данном разделе сайта собрана вся необходимая информация для пользователей **PosterBot**.
+## Home
+In this section of the website contains all the necessary information for users of **PosterBot**.
 
-Слева находятся пункты, открыв которые, вы можете получить нужную помощь.
+To the left are the points, revealing that you can get the right help.
 
 <div class="notification is-warning">
-    <b>Внимание!</b> Данный раздел сайта находится в процессе разработки.
+    <b>Attention!</b> This section of the website is in the process of development.
 </div>

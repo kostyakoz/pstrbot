@@ -1,9 +1,9 @@
-## Настройка фильтров
-С помощью так называемых фильтров вы можете настроить то, как бот будет отправлять записи.
+## Configuring filters
+Using filters you can configure how the bot will send the record.
 
-1. Фильтры для каждой страницы (источника) настраиваются отдельно. Перейдите в раздел **“Страницы”**, затем нажмите на название нужной страницы и выберете **“Настроить фильтры”**.
-2. Далее нажимайте на название необходимых фильтров, чтобы настроить их. Описание каждого фильтра доступно в [соответствующем разделе меню](/help/filters).
+1. The filters for each page (source) is configured separately. Go to **Sources**, then click on the name of the desired page and choose **“Configure filters”**.
+2. Then click on the name of the filters to adjust them. A description of each filter are available in [relevant section of the menu](/help/filters).
 
-### Возможные проблемы
-* **“Чтобы воспользоваться данным фильтром, необходимой перейти на Premium.”** Некоторые фильтры доступны только для [Premium](/premium)-пользователей, всё просто.
-* **Я настроил фильтр, но он не работает.** Возможно необходимо подождать пока пройдет время ожидания, отображаемое по команде `/start`.
+### Possible problems
+* **“To use this filter, you need to upgrade to Premium.”** Some filters are only available for [Premium](/premium) users.
+* **I set up a filter, but it does not work.** It may be necessary to wait until the waiting time that is displayed by the command `/start`.

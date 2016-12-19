@@ -1,5 +1,5 @@
-## Управление ботом
+## Managing bot
 
 <div class="notification is-warning">
-    <b>Внимание!</b> Данный раздел сайта находится в процессе разработки.
+    <b>Attention!</b> This section of the website is in the process of development.
 </div>

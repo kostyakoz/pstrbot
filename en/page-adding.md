@@ -1,12 +1,12 @@
-## Добавление страниц
-Страница — источник, откуда бот будет присылать записи. В данный момент поддерживаются страницы из таких социальных сервисов, как Instagram, Twitter, VK, а также любые RSS-ленты.
+## Adding sources
+The source is from where the bot will send the record. Currently supported sources from such social services like Instagram, Twitter, VK, RSS feeds.
 
-1. Перейдите в [@pstrbot](//telegram.me/pstrbot), выберете раздел **“Добавить страницу”**. Если этого раздела нет в меню, значит, вы ещё не [добавили канал](/help/channel-adding).
-2. С помощью меню под сообщением выберете канал, к которому необходимо подключить страницу (источник).
-3. Далее необходимо выбрать тип страницы.
-4. Следуя инструкциям бота, отправьте полный адрес нужной вам страницы.
-5. После добавления страницы, её можно настроить в разделе **“Страницы”**.
+1. Go to [@pstrbot](//telegram.me/pstrbot), select **“Add source”**. If this section is not on the menu, so you haven't [added channel](/help/channel-adding).
+2. Using the menu below select the channel to which you want to connect the source (page).
+3. Next, you need to choose the source type.
+4. Following the instructions of the bot, send the complete address of your desired page.
+5. After adding pages, you can configure it in the page **Sources**.
 
-### Возможные проблемы
-* **Вы уже добавили максимально допустимое количество страниц**. Для бесплатных пользователей данный лимит составляет 10 страниц, для [Premium](/premium) — 25. Чтобы добавить ещё страницы, необходимо удалить старые или приобрести подписку.
-* **Неверный адрес страницы.** Это значит, что бот не может открыть указанную вами страницу. Попробуйте проверить адрес и отправить его боту ещё раз.
+### Possible problems
+* **You have already added the maximum number of sources**. For free users this limit is 10 sources and for the [Premium](/premium) — 25. To add another page, you need to remove the old one or buy a Premium subscription.
+* **Invalid address page.** This means that the bot cannot access the page you specify. Try to check the address and send it to the bot again.

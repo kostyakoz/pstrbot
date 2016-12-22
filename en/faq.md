@@ -1,16 +1,16 @@
 ## F.A.Q.
-**Q:** зачем в боте существует платная подписка?
+**Q:** What is a paid subscription and what is it for
 
-**A:** для поддержания стабильной работы бота необходимы мощные сервера, а ещё для кофе, обеспечивающего жизнедеятельность разработчиков (для внедрения новых функций).
+**A:** To maintain stable operation of the bot requires a powerful server, and another for coffee for the livelihoods of the developers (to implement new features).
 <hr>
-**Q:** почему бот отправляет мне не все аудиозаписи из ВКонтакте?
+**Q:** Why the bot not sending all the recordings from VK.com?
 
-**A:** все просто. С 16 декабря ВКонтакте полностью закрывает доступ разработчикам к методу `audio`, необходимому для работы с музыкой. Узнать больше можно [здесь](https://vk.com/dev/audio_api).
+**A:** 16 Dec Vkontakte completely closes access to developers to the technique of `audio` for work with music. Learn more [here](https://vk.com/dev/audio_api).
 <hr>
-**Q:** что означает **Ожидание**, отображаемое по команде `/start` в боте?
+**Q:** What means **Timeout** displayed by the command `/start` in the bot?
 
-**A:** это время, которое проходит между появлением записи в социальном сервисе и отправкой её в ваш канал Telegram.
+**A:** This is the time that elapses between the appearance of the recording in social service and sending it to your channel Telegram.
 
 <div class="notification is-warning">
-    <b>Внимание!</b> Данный раздел сайта находится в процессе разработки.
+    <b>Attention!</b> This section of the website is in the process of development.
 </div>

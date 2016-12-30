@@ -169,6 +169,13 @@
         "✍ Уточнить",
         "*Возникла ошибка*\nПотеряно соединение с сервером Telegram. Отправка записей была приостановлена для канала {c} во избежание появления одинаковых сообщений.\n\nВозобновите отправку записей из раздела “Мои каналы”. Если ошибки продолжатся, свяжитесь с нашей службой поддержки по команде /help.",
         "*Возникла ошибка*\nБот не может отправлять записи с одной или нескольких источников в ваш канал {c}. Отправка записей была приостановлена.\n\nУбедитесь, что бот @pstrbot *является администратором канала* {c} и возобновите отправку записей из раздела “Мои каналы”. Если ошибки продолжатся, свяжитесь с нашей службой поддержки по команде /help.",
+        "*Добавление источника Tumblr*\nОтправьте мне адрес блога, который нужно добавить.\n\n*Например:* _mavrin.tumblr.com_",
+        "*Источник Tumblr был добавлен*\nБот будет отправлять записи из *{}* в выбранный канал Telegram.\n\nНастроить отправку записей можно в разделе *“🔧 Источники”*.",
+        "*Ошибка*\nОтправьте мне ссылку на блог Tumblr.",
+        "*Добавление источника YouTube*\nОтправьте мне адрес канала, который нужно добавить.\n\n*Например:* _youtube.com/user/GameofThrones_",
+        "*Источник YouTube был добавлен*\nБот будет отправлять записи из *{}* в выбранный канал Telegram.\n\nНастроить отправку записей можно в разделе *“🔧 Источники”*.",
+        "*Ошибка*\nОтправьте мне ссылку на канал YouTube.",
+        "",
         ""
     ],
     "en": [
@@ -341,6 +348,13 @@
         "✍ Clarify answer",
         "*An error occurred!*\nLost connection to Telegram servers. Sending of the records was suspended for a channel {c} in order to avoid double messages.\n\nResume the sending of records from “My channels”. If the error continues, please contact our support team /help.",
         "*An error occurred!*\nThe bot is unable to send records from one or more sources into your channel {c}. Sending of records was suspended.\n\nMake sure that the bot @pstrbot *is a channel administrator* {c} and resume sending of the records from “My channels”. If the error continues, please contact our support team /help.",
+        "*Adding Tumblr source*\nSubmit URL of public Tumblr blog which you want to add.\n\n*Example:* _mavrin.tumblr.com_",
+        "*Tumblr source was added*\nBot will send messages from *{}* to chosen Telegram channel.\n\nYou can configure messages sending from *“🔧 Sources”*.",
+        "*Error*\nSend URL of public Tumblr blog.",
+        "*Adding YouTube source*\nSubmit URL of YouTube channel which you want to add.\n\n*Example:* _youtube.com/user/GameofThrones_",
+        "*YouTube source was added*\nBot will send messages from *{}* to chosen Telegram channel.\n\nYou can configure messages sending from *“🔧 Sources”*.",
+        "*Error*\nSend URL of YouTube channel.",
+        "",
         ""
     ]
 }
